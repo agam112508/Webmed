@@ -1,0 +1,295 @@
+
+/*
+#DAEAF3
+#5EA5D0
+#266EA2
+
+*/
+
+.btn{
+    color: #DAEAF3;
+    
+}
+.inciar{
+    color: #DAEAF3;
+    margin-top: 0;
+}
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: #DAEAF3;
+}
+
+.columna2{
+    padding-top: 20px;
+}
+
+
+/*Home*/
+
+.navegacion-home{
+    height: 70px;
+    position: fixed;
+    position: absolute;
+    width: 100%;
+}
+
+.btn btn-primary me-md-2{
+    background-color: #5EA5D0;
+}
+
+.columna1{
+    background-color: #daeaf34f;
+    color: #266EA2;
+    padding: 25px;
+    text-align: start;
+    font-size: 20px;
+    width: 400px;
+    height: 400px;   
+    margin: 10px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 40px;
+
+
+    
+    
+    
+}
+
+.row{
+    position: relative;
+    bottom: -80px;
+    left: -100px;
+    padding: 40px;
+    margin-top: 100px;
+    padding-bottom: 200px;
+}
+
+
+
+/*Seguros*/
+
+
+.icono-salir{
+    color: #DAEAF3;
+    width: 40px;
+    height: 40px;
+    position: fixed;
+    padding: 20px;
+    top: 0;
+    right: 0;
+    z-index: 1;
+
+}
+
+.icono-salir:hover{
+    color: #266EA2;
+}
+
+.icono-home{
+    color: #DAEAF3;
+    width: 40px;
+    height: 40px;
+    margin-left: 150px;
+}
+
+.icono-home:hover{
+    color: #266EA2;
+    cursor: pointer;
+}
+
+.iconos-tabla{
+    color: #266EA2;
+    width: 40px;
+    height: 40px;
+    margin-bottom: 20px;
+    
+}
+
+.iconos-tabla-derecha{
+    color: #266EA2;
+    width: 40px;
+    height: 40px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+#time, #date{
+    color: #DAEAF3;
+    font-size: 15px;
+    
+}
+
+.container-cloc{
+    position: fixed;
+    z-index: 1;
+    right: 50px;
+    top: 10px;
+    padding-right: 50px;
+}
+.nombre-usuario{
+    background-color: #266EA2 ;
+    position: fixed;
+    z-index: 1;
+    top: 11.8%;
+    width: 10%;
+    border-radius: 0 0 15px 0;
+
+}
+
+.datos-usuario{
+    color: #DAEAF3;
+    font-size: 10px;
+    padding: 5px;
+}
+
+.titulo-contenido{
+    color: #266EA2;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+
+.contenido-home{
+    padding-top: 50px;
+    padding-left: 15%;
+    font-size: 20px;
+    
+    
+    
+}
+
+td{
+    margin-bottom: 10px;
+    margin-left: 15px;
+    padding: 9px;
+    padding-left: 55px;
+    
+}
+
+
+
+
+.opciones-tabla{
+    background-color: #5EA5D0;
+    color: #DAEAF3;
+    border-radius: 8px;
+    
+    
+    
+
+    height: 60px;
+    border: 1.5px solid #266EA2;
+    width: 200px;
+    display: flex;
+
+    padding: 10px;
+    padding-top: 15px;
+
+    
+
+}
+.opciones-tabla-todos{
+    background-color: #5EA5D0;
+    color: #DAEAF3;
+    border-radius: 8px;
+    height: 60px;
+    border: 1.5px solid #266EA2;
+    width: 200px;
+    display: flex;
+
+    padding: 10px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.opciones-tabla-todos:hover{
+    background-color: #266EA2;
+    color: #DAEAF3;
+    border-radius: 8px;
+    height: 60px;
+    border: 1.5px solid #266EA2;
+    width: 200px;
+    display: flex;
+    transform: translateY(-1.4px);
+
+    padding: 10px;
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.opciones-tabla:hover{
+    background-color: #266EA2;
+    color: #DAEAF3;
+    border-radius: 8px;
+    height: 60px;
+    border: 1.5px solid #266EA2;
+    width: 200px;
+    display: flex;
+    transform: translateY(-1.4px);
+
+    padding: 10px;
+    
+}
+
+
+.titulo{
+    background-color: #266EA2;
+    color: #DAEAF3;
+    font-size: 20px;
+    text-align: center;
+    padding-right: 60px;
+    padding-bottom: 20px;
+    
+    
+    
+}
+
+.p-3{
+    background-color: #266EA2;
+    color: #DAEAF3;
+    font-size: 15px;
+    height: 320px;
+    width: 300px;
+    border-radius: 0 0 10px 10px;
+    text-align: start;
+    position: relative;
+    
+    
+}
+li{
+    padding: 5px;
+    padding-bottom: 2px;
+    color: #DAEAF3;
+    
+}
+
+.boton-comprar{
+    background-color: #266EA2;
+    color: #DAEAF3;
+    border: 1px solid #5EA5D0;
+    border-radius: 10px;
+    height: 30px;
+    width: 100px;
+    position: absolute;
+    bottom: 15px;
+    right: 35%;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.2);
+    
+
+}
+
+.boton-comprar:hover{
+    background-color: #5EA5D0;
+    transform: translateY(-10px);
+}
+
+
+.col{
+    position: relative;
+    left: 140px;
+    
+
+}
+

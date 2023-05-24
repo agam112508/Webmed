@@ -1,0 +1,26 @@
+.card{
+    position: relative;
+    top: 100px;
+    right: -39%;
+}
+
+.icono ,feedback{
+    position: relative;
+    left: 35px;
+    color: #5EA5D0;
+}
+
+.form-control{
+    padding-bottom: 15px;
+    padding-left: 50px;
+    width: 200px;
+}
+
+.btn ,btn-primary{
+    margin: 15px;
+    
+}
+
+.col-md-4{
+    padding: 10px;
+}
